@@ -4,16 +4,19 @@ class Node:
          self.next = None
 
 "0.2"
+
+
 def recorrer(Nodo):
-    if Nodo.next == None:
+    if Nodo.next is None:
         print(Nodo.value)
         return
     else:
         print(Nodo.value)
         recorrer(Nodo.next)
 
+
 def agregar(Nodo,x):
-    if Nodo.next == None:
+    if Nodo.next is None:
         Nodo.next = x(Node)
         return
     else:
@@ -33,3 +36,4 @@ l.next = a
 
 recorrer(h)
 agregar(h)
+

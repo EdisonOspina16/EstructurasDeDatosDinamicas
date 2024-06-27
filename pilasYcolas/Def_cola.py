@@ -1,5 +1,7 @@
 class Lista_Vacia(Exception):
     pass
+
+
 class Queue:
     def __init__(self):
         self.item = []

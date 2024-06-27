@@ -17,12 +17,13 @@ class Queue:
     def dequeue(self):
         if len(self.items) == 0:
             raise Exception("Queue is empty")
-        return self.items.pop(0)  # Return the dequeued element
+        return self.items.pop(0)
 
     def first(self):
         if len(self.items) == 0:
             raise Exception("Queue is empty")
         return self.items[0]
+
 
 class Cliente:
     def __init__(self, nombre, prioridad):
@@ -33,15 +34,31 @@ class Cliente:
         return f"Cliente: {self.nombre}, Prioridad: {self.prioridad}"
 
 
+def insertion_sort_clientes(clientes):
+    for i in range(1, len(clientes)):
+        key = clientes[i]
+        j = i - 1
+        while j >= 0 and key.prioridad < clientes[j].prioridad:
+            clientes[j + 1] = clientes[j]
+            j -= 1
+        clientes[j + 1] = key
+
+
 cliente1 = Cliente("edison", 1)
 cliente2 = Cliente("Daniel", 2)
 cliente3 = Cliente("sofia", 3)
-
-ColaPrincipal = Queue()
+clientes = [
+    cliente1,
+    cliente2,
+    cliente3
+]
+Cola_principal = Queue()
 
 Cola2 = Queue()
 Cola2.enqueue(cliente1)
 Cola2.enqueue(cliente2)
 Cola2.enqueue(cliente3)
 
-ColaPrincipal.enqueue(Cola2)
+Cola_principal.enqueue(Cola2)
+insertion_sort_clientes()
+

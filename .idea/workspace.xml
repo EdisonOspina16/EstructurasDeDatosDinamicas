@@ -4,22 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ESTRUCTURAS DE DATOS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nodos/Ej_en_clase#1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nodos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasYcolas/Def_cola.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasYcolas/Ej_exa#2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasYcolas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasYcolas/def_pila.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasYcolas/ejercicicos_examen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/__init__.py" afterDir="false" />
+    <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="nodos :)">
+      <change afterPath="$PROJECT_DIR$/Nodos/Listas enlazadas/Ej_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ej #1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilasYcolas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/suma digitos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/suma numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nodos/Ej_en_clase#1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/Listas enlazadas/Ej_en_clase#1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nodos/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arboles/ejercicios de arboles/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PilasYcolas/Def_cola.py" beforeDir="false" afterPath="$PROJECT_DIR$/pilasYcolas/Def_cola.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PilasYcolas/Ej_exa#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pilasYcolas/Ej_exa#2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PilasYcolas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arboles/ejercicios de arboles/ejemplo #1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PilasYcolas/def_pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/pilasYcolas/def_pila.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PilasYcolas/ejercicicos_examen.py" beforeDir="false" afterPath="$PROJECT_DIR$/pilasYcolas/ejercicicos_examen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/Listas enlazadas/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EdisonOspina16&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EdisonOspina16/EstructurasDeDatosDinamicas.git&quot;,
+    &quot;accountId&quot;: &quot;a25c5c33-da3f-4f5c-88a1-335e364afbf7&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -45,20 +66,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Def_cola.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ej_en_clase#1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ej_exa#2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.def_pila.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicicos_examen.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Def_cola.executor": "Run",
+    "Python.Ej_2.executor": "Run",
+    "Python.Ej_en_clase#1.executor": "Run",
+    "Python.Ej_exa#2.executor": "Run",
+    "Python.def_pila.executor": "Run",
+    "Python.ej #1.executor": "Run",
+    "Python.ejercicicos_examen.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.suma digitos.executor": "Run",
+    "Python.suma numeros.executor": "Run",
+    "Python.sumar_elementos_lista.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.ejercicicos_examen">
-    <configuration name="Def_cola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Nodos\Listas enlazadas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.suma numeros">
+    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PilasYcolas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PilasYcolas/Def_cola.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ej_en_clase#1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nodos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nodos/Ej_en_clase#1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ej_exa#2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="suma digitos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PilasYcolas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PilasYcolas/Ej_exa#2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/suma digitos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="def_pila" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="suma numeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PilasYcolas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PilasYcolas/def_pila.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/suma numeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicicos_examen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sumar_elementos_lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PilasYcolas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PilasYcolas/ejercicicos_examen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/sumar_elementos_lista.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,18 +204,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ejercicicos_examen" />
-        <item itemvalue="Python.def_pila" />
-        <item itemvalue="Python.Def_cola" />
-        <item itemvalue="Python.Ej_en_clase#1" />
-        <item itemvalue="Python.Ej_exa#2" />
+        <item itemvalue="Python.suma numeros" />
+        <item itemvalue="Python.suma digitos" />
+        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.factorial" />
+        <item itemvalue="Python.sumar_elementos_lista" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -194,6 +228,27 @@
       <option name="presentableId" value="Default" />
       <updated>1710947953414</updated>
     </task>
+    <task id="LOCAL-00001" summary="nodos :)">
+      <option name="closed" value="true" />
+      <created>1711397988886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711397988886</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nodos :)">
+      <option name="closed" value="true" />
+      <created>1711398190239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711398190239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nodos :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="nodos :)" />
   </component>
 </project>
