@@ -4,25 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="nodos :)">
-      <change afterPath="$PROJECT_DIR$/Nodos/Listas enlazadas/Ej_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ej #1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pilasYcolas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/suma digitos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/suma numeros.py" afterDir="false" />
+    <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="estudiando recursion">
+      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/invertir cadena.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nodos/Ej_en_clase#1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/Listas enlazadas/Ej_en_clase#1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nodos/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arboles/ejercicios de arboles/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYcolas/Def_cola.py" beforeDir="false" afterPath="$PROJECT_DIR$/pilasYcolas/Def_cola.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYcolas/Ej_exa#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pilasYcolas/Ej_exa#2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYcolas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arboles/ejercicios de arboles/ejemplo #1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYcolas/def_pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/pilasYcolas/def_pila.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYcolas/ejercicicos_examen.py" beforeDir="false" afterPath="$PROJECT_DIR$/pilasYcolas/ejercicicos_examen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/Listas enlazadas/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pilasYcolas/Def_cola.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/Def_cola.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pilasYcolas/Ej_exa#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/Ej_exa#2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pilasYcolas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pilasYcolas/def_pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/def_pila.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pilasYcolas/ejercicicos_examen.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/ejercicicos_examen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/invertir cadena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/suma digitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/suma digitos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/suma numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +72,7 @@
     "Python.ejercicicos_examen.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
+    "Python.invertir cadena.executor": "Run",
     "Python.suma digitos.executor": "Run",
     "Python.suma numeros.executor": "Run",
     "Python.sumar_elementos_lista.executor": "Run",
@@ -91,7 +87,7 @@
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Nodos\Listas enlazadas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.suma numeros">
+  <component name="RunManager" selected="Python.invertir cadena">
     <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
@@ -105,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/factorial.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +123,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/fibonacci.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="invertir cadena" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESTRUCTURAS DE DATOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\invertir cadena.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/suma digitos.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\suma digitos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,29 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/suma numeros.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sumar_elementos_lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ESTRUCTURAS DE DATOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/sumar_elementos_lista.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\suma numeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.invertir cadena" />
         <item itemvalue="Python.suma numeros" />
         <item itemvalue="Python.suma digitos" />
         <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.factorial" />
-        <item itemvalue="Python.sumar_elementos_lista" />
       </list>
     </recent_temporary>
   </component>
@@ -244,11 +240,20 @@
       <option name="project" value="LOCAL" />
       <updated>1711398190239</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="estudiando recursion">
+      <option name="closed" value="true" />
+      <created>1719459020769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719459020769</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nodos :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="nodos :)" />
+    <MESSAGE value="estudiando recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="estudiando recursion" />
   </component>
 </project>
