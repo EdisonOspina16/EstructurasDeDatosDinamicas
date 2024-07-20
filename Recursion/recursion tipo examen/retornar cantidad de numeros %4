@@ -1,0 +1,9 @@
+""" Cree una función recursiva de cola que reciba un entero y retorne cuántos dígitos
+ de este número son múltiplos de 2 y de 4. Ignore el cero.
+
+Por ejemplo: si la función recibe el número 34523, deberá retornar 1
+ ya que hay sólo un número que es múltiplo de ambos números (el 4).
+"""
+
+
+print(e1(348120))

@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="estudiando recursion">
-      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/invertir cadena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/retornar cantidad de numeros %4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pilasYcolas/Def_cola.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/Def_cola.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pilasYcolas/Ej_exa#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/Ej_exa#2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pilasYcolas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pilasYcolas/def_pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/def_pila.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pilasYcolas/ejercicicos_examen.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/ejercicicos_examen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/invertir cadena.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/suma digitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/suma digitos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/suma numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -70,10 +68,14 @@
     "Python.def_pila.executor": "Run",
     "Python.ej #1.executor": "Run",
     "Python.ejercicicos_examen.executor": "Run",
+    "Python.factorial (1).executor": "Run",
     "Python.factorial.executor": "Run",
+    "Python.fibonacci (1).executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.invertir cadena.executor": "Run",
+    "Python.retornar numeros pares de una lista.executor": "Run",
     "Python.suma digitos.executor": "Run",
+    "Python.suma numeros (1).executor": "Run",
     "Python.suma numeros.executor": "Run",
     "Python.sumar_elementos_lista.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -84,11 +86,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\PilasYcolas+" />
+      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion" />
+      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion+" />
+      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Nodos\Listas enlazadas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.invertir cadena">
-    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.retornar cantidad de numeros %4">
+    <configuration name="factorial (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recurson facil" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recurson facil" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="invertir cadena" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="retornar cantidad de numeros %4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recursion tipo examen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\invertir cadena.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recursion tipo examen\retornar cantidad de numeros %4" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recurson facil" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\suma digitos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/suma digitos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="suma numeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="suma numeros (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recurson facil" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil\suma numeros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.invertir cadena" />
-        <item itemvalue="Python.suma numeros" />
+        <item itemvalue="Python.retornar cantidad de numeros %4" />
         <item itemvalue="Python.suma digitos" />
-        <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.factorial" />
+        <item itemvalue="Python.suma numeros (1)" />
+        <item itemvalue="Python.fibonacci (1)" />
+        <item itemvalue="Python.factorial (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719459020769</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="estudiando recursion">
+      <option name="closed" value="true" />
+      <created>1719461703086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719461703086</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
