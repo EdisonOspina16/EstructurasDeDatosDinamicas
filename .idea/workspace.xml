@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="estudiando recursion">
-      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/retornar cantidad de numeros %4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/calcular sumatoria de # impares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/invertir mitad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/ejercicios clase4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/ejercicios de clase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/ejerciciosClase3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/ejerciciosclase2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/recursion tipo examen/retornar cantidad de numeros %4" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/retornar cantidad de numeros %4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,42 +66,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Def_cola.executor": "Run",
-    "Python.Ej_2.executor": "Run",
-    "Python.Ej_en_clase#1.executor": "Run",
-    "Python.Ej_exa#2.executor": "Run",
-    "Python.def_pila.executor": "Run",
-    "Python.ej #1.executor": "Run",
-    "Python.ejercicicos_examen.executor": "Run",
-    "Python.factorial (1).executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.fibonacci (1).executor": "Run",
-    "Python.fibonacci.executor": "Run",
-    "Python.invertir cadena.executor": "Run",
-    "Python.retornar numeros pares de una lista.executor": "Run",
-    "Python.suma digitos.executor": "Run",
-    "Python.suma numeros (1).executor": "Run",
-    "Python.suma numeros.executor": "Run",
-    "Python.sumar_elementos_lista.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Def_cola.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ej_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ej_en_clase#1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ej_exa#2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.def_pila.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ej #1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicicos_examen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicios clase4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicios de clase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejerciciosClase3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejerciciosclase2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejerciciosclase2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.invertir cadena.executor&quot;: &quot;Run&quot;,
+    &quot;Python.invertir mitad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.retornar cantidad de numeros %4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.retornar numeros pares de una lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.suma digitos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.suma numeros (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.suma numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sumar_elementos_lista.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recurson facil" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\PilasYcolas+" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion+" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil" />
-      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Nodos\Listas enlazadas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.retornar cantidad de numeros %4">
-    <configuration name="factorial (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ejercicios clase4">
+    <configuration name="ejercicios clase4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/ejercicios clase4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +131,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ejercicios de clase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESTRUCTURAS DE DATOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recurson facil\ejercicios de clase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejerciciosClase3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/ejerciciosClase3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,29 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="retornar cantidad de numeros %4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ESTRUCTURAS DE DATOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recursion tipo examen" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recursion tipo examen\retornar cantidad de numeros %4" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="suma digitos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ejerciciosclase2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +188,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/suma digitos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/ejerciciosclase2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="suma numeros (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ejerciciosclase2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recurson facil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recurson facil\ejerciciosclase2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.retornar cantidad de numeros %4" />
-        <item itemvalue="Python.suma digitos" />
-        <item itemvalue="Python.suma numeros (1)" />
-        <item itemvalue="Python.fibonacci (1)" />
-        <item itemvalue="Python.factorial (1)" />
+        <item itemvalue="Python.ejercicios clase4" />
+        <item itemvalue="Python.ejerciciosClase3" />
+        <item itemvalue="Python.ejerciciosclase2 (1)" />
+        <item itemvalue="Python.ejerciciosclase2" />
+        <item itemvalue="Python.ejercicios de clase" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719461703086</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="estudiando recursion">
+      <option name="closed" value="true" />
+      <created>1721446699537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721446699537</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
