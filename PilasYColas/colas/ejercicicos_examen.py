@@ -34,14 +34,14 @@ class Cliente:
         return f"Cliente: {self.nombre}, Prioridad: {self.prioridad}"
 
 
-def insertion_sort_clientes(clientes):
-    for i in range(1, len(clientes)):
-        key = clientes[i]
+def insertion_sort_clientes(cliente):
+    for i in range(1, len(cliente)):
+        key = cliente[i]
         j = i - 1
-        while j >= 0 and key.prioridad < clientes[j].prioridad:
-            clientes[j + 1] = clientes[j]
+        while j >= 0 and key.prioridad < cliente[j].prioridad:
+            cliente[j + 1] = cliente[j]
             j -= 1
-        clientes[j + 1] = key
+        cliente[j + 1] = key
 
 
 cliente1 = Cliente("edison", 1)
