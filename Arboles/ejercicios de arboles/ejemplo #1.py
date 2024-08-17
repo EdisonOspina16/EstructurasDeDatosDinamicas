@@ -6,7 +6,7 @@ class Node:
 
 class GeneralTree:
     def __init__(self, root):
-        self.root: Node = root
+        #self.root: Node = root
         pass
 
 

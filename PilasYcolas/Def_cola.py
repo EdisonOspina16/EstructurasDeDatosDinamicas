@@ -6,18 +6,22 @@ class Queue:
     def __init__(self):
         self.item = []
 
-    def enqueue(self,e):
+    def enqueue(self, e):
         self.item.append(e)
 
     def dequeue(self):
-        if (len(self.item)==0):
+        if len(self.item) == 0:
             raise Lista_Vacia
         self.item.pop(0)
 
     def frist(self):
-        if (len(self.item)==0):
+        if len(self.item) == 0:
             raise Lista_Vacia
         return self.item.pop(0)
+
+    def __str__(self):
+        return self.item
+
 
 q = Queue()
 q.enqueue(1)

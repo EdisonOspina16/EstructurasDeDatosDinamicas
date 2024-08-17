@@ -1,24 +1,26 @@
 class EmptyStackException(Exception):
-  pass
+    pass
+
 
 class Stack:
-  def __init__(self):
-    self.__stack = []
+    def __init__(self):
+        self.stack = []
 
-  def push(self, e):
-    self.__stack.append(e)
+    def push(self, e):
+        self.stack.append(e)    # Agrega un elemento a la pila
 
-  def pop(self):
-    if(len(self.__stack) == 0):
-      raise EmptyStackException
-    return self.__stack.pop()
+    def pop(self):
+        if len(self.stack) == 0:
+            raise EmptyStackException
+        return self.stack.pop()   # Elimina y retorna
 
-  def top(self):
-    if(len(self.__stack) == 0):
-      raise EmptyStackException
-    return self.__stack[-1]
-  def __str__(self):
-    return str(self.__stack)
+    def top(self):
+        if len(self.stack) == 0:
+            raise EmptyStackException
+        return self.stack[-1]   # Retorna la ultima posicion de la pila
+
+    def __str__(self):
+        return str(self.stack)
 
 
 s = Stack()
