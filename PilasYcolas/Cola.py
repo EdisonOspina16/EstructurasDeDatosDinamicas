@@ -22,7 +22,6 @@ class Queue:
     def __str__(self):
         return self.item
 
-
 q = Queue()
 q.enqueue(1)
 q.enqueue(2)

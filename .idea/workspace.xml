@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="estudiando recursion">
+    <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="empezamos pilas y colas">
+      <change afterPath="$PROJECT_DIR$/PilasYcolas/Invertir un string usando sólo pilas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arboles/ejercicios de arboles/ejemplo #1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arboles/ejercicios de arboles/ejemplo #1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYcolas/Def_cola.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/Def_cola.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYcolas/Ej_exa#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/Ej_exa#2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYcolas/def_pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/def_pila.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PilasYcolas/Def_cola.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/Cola.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PilasYcolas/def_pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYcolas/Pila.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,41 +59,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Def_cola.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EXAMEN OTRO GRUPO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ej_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ej_en_clase#1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ej_exa#2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.buscarMatriz (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.def_pila.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ej #1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicicos_examen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicios clase4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicios de clase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejerciciosClase3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejerciciosclase2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejerciciosclase2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.invertir cadena.executor&quot;: &quot;Run&quot;,
-    &quot;Python.invertir mitad.executor&quot;: &quot;Run&quot;,
-    &quot;Python.retornar cantidad de numeros %4 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.retornar numeros pares de una lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.suma digitos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.suma numeros (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.suma numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sumar_elementos_lista.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Def_cola.executor": "Run",
+    "Python.EXAMEN OTRO GRUPO.executor": "Run",
+    "Python.Ej_2.executor": "Run",
+    "Python.Ej_en_clase#1.executor": "Run",
+    "Python.Ej_exa#2.executor": "Run",
+    "Python.Pila (1).executor": "Run",
+    "Python.buscarMatriz (1).executor": "Run",
+    "Python.def_pila.executor": "Run",
+    "Python.ej #1.executor": "Run",
+    "Python.ejercicicos_examen.executor": "Run",
+    "Python.ejercicios clase4.executor": "Run",
+    "Python.ejercicios de clase.executor": "Run",
+    "Python.ejerciciosClase3.executor": "Run",
+    "Python.ejerciciosclase2 (1).executor": "Run",
+    "Python.ejerciciosclase2.executor": "Run",
+    "Python.factorial (1).executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fibonacci (1).executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.invertir cadena.executor": "Run",
+    "Python.invertir mitad.executor": "Run",
+    "Python.pila y cola.executor": "Run",
+    "Python.retornar cantidad de numeros %4 (1).executor": "Run",
+    "Python.retornar numeros pares de una lista.executor": "Run",
+    "Python.suma digitos.executor": "Run",
+    "Python.suma numeros (1).executor": "Run",
+    "Python.suma numeros.executor": "Run",
+    "Python.sumar_elementos_lista.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recurson facil" />
@@ -104,8 +105,8 @@
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.def_pila">
-    <configuration name="Def_cola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Pila (1)">
+    <configuration name="Cola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PilasYcolas/Def_cola.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\PilasYcolas\Cola.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,51 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buscarMatriz (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ESTRUCTURAS DE DATOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recursion tipo examen" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recursion tipo examen/buscarMatriz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="buscarMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ESTRUCTURAS DE DATOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recursion tipo examen" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recursion tipo examen\buscarMatriz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="def_pila" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pila (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PilasYcolas/def_pila.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PilasYcolas/Pila.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicios clase4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pila" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,11 +159,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recurson facil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PilasYcolas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/ejercicios clase4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\PilasYcolas\Pila.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="invertir mitad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESTRUCTURAS DE DATOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recursion tipo examen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recursion tipo examen/invertir mitad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pila y cola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESTRUCTURAS DE DATOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PilasYcolas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PilasYcolas/pila y cola.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.def_pila" />
-        <item itemvalue="Python.Def_cola" />
-        <item itemvalue="Python.buscarMatriz (1)" />
-        <item itemvalue="Python.buscarMatriz" />
-        <item itemvalue="Python.ejercicios clase4" />
+        <item itemvalue="Python.Pila (1)" />
+        <item itemvalue="Python.invertir mitad" />
+        <item itemvalue="Python.pila y cola" />
+        <item itemvalue="Python.Pila" />
+        <item itemvalue="Python.Cola" />
       </list>
     </recent_temporary>
   </component>
@@ -297,23 +298,32 @@
       <option name="project" value="LOCAL" />
       <updated>1723865011089</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="empezamos pilas y colas">
+      <option name="closed" value="true" />
+      <created>1723867687451</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723867687451</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nodos :)" />
     <MESSAGE value="estudiando recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="estudiando recursion" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/PilasYcolas/def_pila.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="empezamos pilas y colas" />
+    <option name="LAST_COMMIT_MESSAGE" value="empezamos pilas y colas" />
   </component>
 </project>
