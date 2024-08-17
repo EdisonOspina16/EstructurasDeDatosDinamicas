@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="estudiando recursion">
-      <change afterPath="$PROJECT_DIR$/Recursion/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/calcular sumatoria de # impares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/invertir mitad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/ejercicios clase4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/ejercicios de clase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/ejerciciosClase3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/recurson facil/ejerciciosclase2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/buscarMatriz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recursion tipo examen/retornar cantidad de numeros %4" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recursion tipo examen/retornar cantidad de numeros %4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/recursion tipo examen/EXAMEN OTRO GRUPO.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +61,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Def_cola.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EXAMEN OTRO GRUPO.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ej_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ej_en_clase#1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ej_exa#2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buscarMatriz (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.def_pila.executor&quot;: &quot;Run&quot;,
     &quot;Python.ej #1.executor&quot;: &quot;Run&quot;,
     &quot;Python.ejercicicos_examen.executor&quot;: &quot;Run&quot;,
@@ -108,7 +102,51 @@
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\recursion\recurson facil" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ejercicios clase4">
+  <component name="RunManager" selected="Python.buscarMatriz (1)">
+    <configuration name="buscarMatriz (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESTRUCTURAS DE DATOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recursion tipo examen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recursion tipo examen/buscarMatriz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="buscarMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESTRUCTURAS DE DATOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/recursion tipo examen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recursion tipo examen\buscarMatriz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ejercicios clase4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
@@ -123,28 +161,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurson facil/ejercicios clase4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ejercicios de clase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ESTRUCTURAS DE DATOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recurson facil\ejercicios de clase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,35 +213,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejerciciosclase2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ESTRUCTURAS DE DATOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recurson facil\ejerciciosclase2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.buscarMatriz (1)" />
+        <item itemvalue="Python.buscarMatriz" />
         <item itemvalue="Python.ejercicios clase4" />
         <item itemvalue="Python.ejerciciosClase3" />
         <item itemvalue="Python.ejerciciosclase2 (1)" />
-        <item itemvalue="Python.ejerciciosclase2" />
-        <item itemvalue="Python.ejercicios de clase" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721446699537</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="estudiando recursion">
+      <option name="closed" value="true" />
+      <created>1723736914707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723736914707</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
