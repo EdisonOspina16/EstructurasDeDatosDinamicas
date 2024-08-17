@@ -1,13 +1,11 @@
 import Pila
 
 
-def invertir(s, index=0, n):
-    if len(str) == 0:
+def invertir(s, index=0, ):
+    if len(string) == 0:
         return
-    if
-
-    return invertir(s, index + 1)
+    pass
 
 
-str = "Edison"
-print(invertir(str))
+string = "Edison"
+print(invertir(string))
