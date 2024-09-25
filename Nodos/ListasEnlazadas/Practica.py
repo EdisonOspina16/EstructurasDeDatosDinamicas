@@ -1,3 +1,6 @@
+from ListasEnlazadasEjercicios import *
+
+
 class EmptyQueue(Exception):
   pass
 class PriorityQueue:
@@ -35,7 +38,7 @@ class PriorityQueue:
   def __repr__(self):
     return str(self.__queue)
 
-q = PriorityQueue("max")
+q = PriorityQueue("min")
 q.enqueue(5)
 q.enqueue(1)
 q.enqueue(7)

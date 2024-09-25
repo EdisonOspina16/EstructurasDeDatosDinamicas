@@ -83,30 +83,4 @@ dll.append(5)
 dll.append(2)
 dll.append(7)
 
-
-"""print(dll.search(9))
-print(dll.search(6))
-print(dll.search(7))
-print(dll.search(8))
-print(dll.search(4))
-print(dll.search(1))"""
-
 dll.traverse()
-print("--------")
-dll.replace(dll.head, 9, 100)
-dll.traverse()
-#dll.replace_solo_uno(9, 100)
-
-"""dll.traverse()
-print("-------")
-dll.recursive_replace(dll.head, 7, 100)
-dll.traverse()"""
-
-
-
-"""dll.recursive_search(1, 0)
-dll.recursive_search(3, 0)
-dll.recursive_search(9, 0)
-dll.recursive_search(8,0)
-dll.recursive_search(2,0)
-dll.recursive_search(7,0)"""
