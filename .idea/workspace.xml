@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="clase de hoy fue listas enlazasdas">
-      <change afterPath="$PROJECT_DIR$/Arboles/ejercicios de arboles/GeneralTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nodos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/RecursionTipoExamen/string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arboles/ejercicios de arboles/ejemplo #1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nodos/ListasEnlazadas/ListasEnlazadasEjercicios.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/ListasEnlazadas/ListasEnlazadasEjercicios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nodos/ListasEnlazadas/Practica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/ListasEnlazadas/Practica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ejercicios DobleLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ejercicios DobleLinkedList.py" afterDir="false" />
-    </list>
+    <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="Arboles" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -396,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727269392303</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Arboles">
+      <option name="closed" value="true" />
+      <created>1728099377624</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728099377624</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +462,8 @@
     <MESSAGE value="estudiando recursion" />
     <MESSAGE value="empezamos pilas y colas" />
     <MESSAGE value="clase de hoy fue listas enlazasdas" />
-    <option name="LAST_COMMIT_MESSAGE" value="clase de hoy fue listas enlazasdas" />
+    <MESSAGE value="Arboles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arboles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
