@@ -133,72 +133,21 @@ class LinkedList:
     def sort(self):  # Ordenar lista enlazada.
         pass
 
-("0.3 ---> para colas")
-class EmptyQueue(Exception):
-    pass
 
+def insert(self, position: int, value: any):
+    if position < 0 or position > self.size:
+        raise IndexError("La posición está fuera de los límites de la lista.")
 
-class Queue:
+    new_node = Node(value)
 
-    def __init__(self):
-        self.queue = LinkedList()
+    if position == 0:  # Inserción al inicio
+        new_node.next = self.head
+        self.head = new_node
+    else:  # Inserción en otra posición
+        current = self.head
+        for i in range(position - 1):
+            current = current.next
+        new_node.next = current.next
+        current.next = new_node
 
-    def enqueue(self, e):  # Agregar al principio
-        nuevo_nodo = Node(e)
-        if not self.queue.head:
-            self.queue.head = nuevo_nodo
-        else:
-            nodo_actual = self.queue.head
-            while nodo_actual.next:
-                nodo_actual = nodo_actual.next
-            nodo_actual.next = nuevo_nodo
-
-    def dequeue(self):  # Eliminar al principio y retornar
-        if not self.queue.head:
-            raise EmptyQueue
-
-        nodo_viejo = self.queue.head
-        self.queue.head = self.queue.head.next
-        nodo_viejo.next = None
-        return nodo_viejo.value
-
-    def frist(self):  # Retorna el primer elemento
-        if not self.queue.head:
-            raise EmptyQueue
-        return self.queue.head.value
-
-    def __str__(self):
-        return str(self.queue)
-
-q = Queue()
-q.enqueue(1)
-q.enqueue(2)
-q.enqueue(3)
-q.enqueue(4)
-q.enqueue(5)
-
-print(q)
-print(q.frist())
-print(q.dequeue())
-print(q)
-print(q.frist())
-print(q)
-print(q.frist())
-print(q.dequeue())
-print(q)
-print(q.frist())
-print(q)
-print(q.frist())
-print(q.dequeue())
-print(q)
-print(q.frist())
-print(q)
-print(q.frist())
-print(q.dequeue())
-print(q)
-print(q.frist())
-print(q)
-print(q.frist())
-print(q.dequeue())
-print(q)
-print(q.frist())
+    self.size += 1

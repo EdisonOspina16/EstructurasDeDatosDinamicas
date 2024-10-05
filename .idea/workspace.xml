@@ -5,42 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db5b9ba6-1e32-4220-803d-f386df7c1105" name="Changes" comment="clase de hoy fue listas enlazasdas">
-      <change afterPath="$PROJECT_DIR$/Nodos/ListasEnlazadas/ListasEnlazadasEjercicios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasYColas/Colas/ColaDeListasEnlazadas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasYColas/Colas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasYColas/Pilas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/RecursionTipoExamen/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arboles/ejercicios de arboles/GeneralTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nodos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/RecursionTipoExamen/string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nodos/Lista_enlazda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nodos/Listas enlazadas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/ListasEnlazadas/Practica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ej #1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ej #1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/colas/Cola.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Colas/Cola.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/colas/ColasDePrioridad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/colas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/ListasEnlazadas/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/pilas/Invertir un string.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Pilas/Invertir un string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/pilas/Pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Pilas/Pila.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/pilas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ejercicios DobleLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/pilas/consecutivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Pilas/consecutivos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/pilas/invertir mitad.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Pilas/invertir mitad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/pilas/numero mayor.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Pilas/numero mayor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/pilas/pilaDiccionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Pilas/pilaDiccionario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PilasYColas/pilas/rotar pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Pilas/rotar pila.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recursion tipo examen/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Colas/ColaCircular.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recursion tipo examen/buscarMatriz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursionTipoExamen/buscarMatriz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recursion tipo examen/calcular sumatoria de # impares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursionTipoExamen/calcular sumatoria de # impares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recursion tipo examen/invertir mitad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursionTipoExamen/invertir mitad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recursion tipo examen/retornar cantidad de numeros %4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursionTipoExamen/retornar cantidad de numeros %4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PilasYColas/Colas/ColaDePrioridad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/ejercicios clase4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/ejercicios clase4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/ejercicios de clase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/ejercicios de clase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/ejerciciosClase3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/ejerciciosClase3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/ejerciciosclase2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/ejerciciosclase2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/invertir cadena.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/invertir cadena.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/suma digitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/suma digitos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/recurson facil/suma numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/RecursonFacil/suma numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arboles/ejercicios de arboles/ejemplo #1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nodos/ListasEnlazadas/ListasEnlazadasEjercicios.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/ListasEnlazadas/ListasEnlazadasEjercicios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nodos/ListasEnlazadas/Practica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/ListasEnlazadas/Practica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ejercicios DobleLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ejercicios DobleLinkedList.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,71 +81,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python.Cola.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ColaDePrioridad.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ColasDePrioridad.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Def_cola.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EXAMEN OTRO GRUPO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ej_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ej_en_clase#1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ej_exa#2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Invertir un string.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lista_enlasada ejercicios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lista_enlazda.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pila (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pila.executor&quot;: &quot;Run&quot;,
-    &quot;Python.buscarMatriz (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.cola (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.cola.executor&quot;: &quot;Run&quot;,
-    &quot;Python.colaexample.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dddddddd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.def_pila.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ej #1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicicos_examen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicios DobleLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicios clase4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicios de clase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejerciciosClase3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejerciciosclase2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejerciciosclase2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.invertir cadena.executor&quot;: &quot;Run&quot;,
-    &quot;Python.invertir mitad (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.invertir mitad.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numero mayor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pila y cola.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pilaDiccionario (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.pilaDiccionario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pilas y colas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.retornar cantidad de numeros %4 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.retornar numeros pares de una lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.suma digitos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.suma numeros (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.suma numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sumar_elementos_lista.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.Cola.executor": "Run",
+    "Python.ColaDePrioridad (1).executor": "Run",
+    "Python.ColaDePrioridad.executor": "Run",
+    "Python.ColasDePrioridad.executor": "Run",
+    "Python.Def_cola.executor": "Run",
+    "Python.EXAMEN OTRO GRUPO.executor": "Run",
+    "Python.Ej_2.executor": "Run",
+    "Python.Ej_en_clase#1.executor": "Run",
+    "Python.Ej_exa#2.executor": "Run",
+    "Python.Invertir un string.executor": "Debug",
+    "Python.Lista_enlasada ejercicios.executor": "Run",
+    "Python.Lista_enlazda.executor": "Run",
+    "Python.Pila (1).executor": "Run",
+    "Python.Pila.executor": "Run",
+    "Python.Practica.executor": "Run",
+    "Python.buscarMatriz (1).executor": "Run",
+    "Python.cola (1).executor": "Run",
+    "Python.cola.executor": "Run",
+    "Python.colaexample.executor": "Run",
+    "Python.dddddddd.executor": "Run",
+    "Python.def_pila.executor": "Run",
+    "Python.ej #1.executor": "Run",
+    "Python.ejercicicos_examen.executor": "Run",
+    "Python.ejercicios DobleLinkedList.executor": "Run",
+    "Python.ejercicios clase4.executor": "Run",
+    "Python.ejercicios de clase.executor": "Run",
+    "Python.ejerciciosClase3.executor": "Run",
+    "Python.ejerciciosclase2 (1).executor": "Run",
+    "Python.ejerciciosclase2.executor": "Run",
+    "Python.factorial (1).executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fibonacci (1).executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.invertir cadena.executor": "Run",
+    "Python.invertir mitad (1).executor": "Run",
+    "Python.invertir mitad.executor": "Run",
+    "Python.numero mayor.executor": "Run",
+    "Python.pila y cola.executor": "Run",
+    "Python.pilaDiccionario (1).executor": "Run",
+    "Python.pilaDiccionario.executor": "Run",
+    "Python.pilas y colas.executor": "Run",
+    "Python.retornar cantidad de numeros %4 (1).executor": "Run",
+    "Python.retornar numeros pares de una lista.executor": "Run",
+    "Python.string.executor": "Run",
+    "Python.suma digitos.executor": "Run",
+    "Python.suma numeros (1).executor": "Run",
+    "Python.suma numeros.executor": "Run",
+    "Python.sumar_elementos_lista.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Nodos\Proyecto" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\PilasYColas\colas" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\PilasYColas\pilas" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\PilasYcolas\pilas" />
       <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\PilasYcolas\colas" />
-      <recent name="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Recursion\recurson facil" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ColaDePrioridad">
+  <component name="RunManager" selected="Python.Practica">
+    <configuration name="ColaDePrioridad (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESTRUCTURAS DE DATOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nodos/ProyectoListasEnlazadas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nodos/ProyectoListasEnlazadas/ColaDePrioridad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ColaDePrioridad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
@@ -195,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lista_enlasada_ejercicios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Practica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ESTRUCTURAS DE DATOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,55 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nodos/Listas enlazadas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nodos/ListasEnlazadas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\ESTRUCTURAS DE DATOS\Nodos\Listas enlazadas\Lista_enlasada_ejercicios.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lista_enlazda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ESTRUCTURAS DE DATOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nodos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nodos/Lista_enlazda.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ej #1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ESTRUCTURAS DE DATOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nodos/listas doblemente enlazadas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nodos/listas doblemente enlazadas/ej #1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nodos/ListasEnlazadas/Practica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,20 +237,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESTRUCTURAS DE DATOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/RecursionTipoExamen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/RecursionTipoExamen/string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.Practica" />
+      <item itemvalue="Python.string" />
+      <item itemvalue="Python.ColaDePrioridad (1)" />
       <item itemvalue="Python.ColaDePrioridad" />
-      <item itemvalue="Python.Lista_enlasada_ejercicios" />
-      <item itemvalue="Python.Lista_enlazda" />
-      <item itemvalue="Python.ej #1" />
       <item itemvalue="Python.ejercicios DobleLinkedList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ColaDePrioridad" />
-        <item itemvalue="Python.Lista_enlasada_ejercicios" />
+        <item itemvalue="Python.Practica" />
+        <item itemvalue="Python.string" />
         <item itemvalue="Python.ejercicios DobleLinkedList" />
-        <item itemvalue="Python.Lista_enlazda" />
-        <item itemvalue="Python.ej #1" />
+        <item itemvalue="Python.ColaDePrioridad (1)" />
+        <item itemvalue="Python.ColaDePrioridad" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726264385379</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="clase de hoy fue listas enlazasdas">
+      <option name="closed" value="true" />
+      <created>1727269392303</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727269392303</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
